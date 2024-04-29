@@ -1,5 +1,5 @@
 name: my-app
-env: web
+env: python
 build:
   commands:
     - pip install -r requirements.txt
